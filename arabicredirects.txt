@@ -1,3 +1,2 @@
 /pos http://www.albankaldawli.org/meetings/annual/2016/index.htm
 /projects http://www.worldbank.org/projectsdata
-/about /http://www.worldbank.org/en/about/partners
