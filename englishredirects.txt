@@ -368,7 +368,6 @@ http:///afr/ecd http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/AFRICAEXT/EXT
 /belgium http://www.worldbank.org/en/country/belgium
 /belize http://www.worldbank.org/en/country/belize
 /benin http://www.worldbank.org/en/country/benin
-www.banquemondiale.org/benin/elearning http://www.banquemondiale.org/fr/country/benin/brief/elearning-benin-project-bridging-the-youth-opportunity-gap-through-e-learning-in-benin
 /benin/elearning http://www.worldbank.org/en/country/benin/brief/elearning-benin-project-bridging-the-youth-opportunity-gap-through-e-learning-in-benin
 /bermudas http://www.worldbank.org/en/about/leadership/directors/eds07
 /bf http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/AFRICAEXT/BURKINAFASOEXTN/0,,menuPK:343882~pagePK:141159~piPK:141110~theSitePK:343876,00.html
@@ -1762,7 +1761,6 @@ www.banquemondiale.org/benin/elearning http://www.banquemondiale.org/fr/country/
 /piceuropefr http://web.worldbank.org/WBSITE/EXTERNAL/ACCUEILEXTN/PAYSEXTN/WBEUROPEFREXTN/PICFREXTN/0,,menuPK:50051661~pagePK:64129699~piPK:64129707~theSitePK:411421,00.html
 /pics http://web.worldbank.org/WBSITE/EXTERNAL/EXTABOUTUS/EXTPIC/0,,contentMDK:20283324~menuPK:867709~pagePK:64156688~piPK:64152607~theSitePK:439948,00.html
 /pictureinequality http://www.worldbank.org/en/news/feature/2013/01/29/photographers-around-the-world-share-stories-on-inequality
-web.worldbank.org/piratetrails http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTFINANCIALSECTOR/0,,contentMDK:23491862~pagePK:210058~piPK:210062~theSitePK:282885,00.html
 /piratetrails http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTFINANCIALSECTOR/0,,contentMDK:23491862~pagePK:210058~piPK:210062~theSitePK:282885,00.html
 /pk http://www.worldbank.org/en/country/pakistan
 /pl http://www.worldbank.org/en/country/poland
@@ -2380,7 +2378,6 @@ web.worldbank.org/piratetrails http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/E
 /wti2008 http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/TRADE/0,,contentMDK:22421950~pagePK:148956~piPK:216618~theSitePK:239071,00.html
 /ye http://www.worldbank.org/en/country/yemen
 /yearinreview http://www.worldbank.org/wb/timeline/2011.htm
-www.albankaldawli.org/yemen http://www.albankaldawli.org/ar/country/yemen
 /yemen http://www.worldbank.org/en/country/yemen
 /yournet http://web.worldbank.org/WBSITE/EXTERNAL/EXTSTAFF/EXTHR/0,,menuPK:444354~pagePK:64231892~piPK:64231931~theSitePK:444049,00.html
 /youth http://youthink.worldbank.org/
