@@ -1,3 +1,4 @@
 /pos http://www.albankaldawli.org/meetings/annual/2016/index.htm
 /projects http://www.worldbank.org/projectsdata
 /en /en/country/china/overview
+/zh /zh/country/china
