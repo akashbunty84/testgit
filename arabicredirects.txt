@@ -1,4 +1,3 @@
-/pos http://www.albankaldawli.org/meetings/annual/2016/index.htmllasda
-/test http://www.albankaldawli.org/meetings
 
-/akash http://www.worldbank.org
+[/pos http://www.albankaldawli.org/meetings/annual/2016/index.htmllasda
+/test, /akash http://www.worldbank.org123]
